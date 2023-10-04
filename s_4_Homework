@@ -72,3 +72,5 @@ setTimeout(()=>document.querySelector(#ID).id=ID,delay);
 changeStyleDelayed('myElement', 2000);    
     
     </script>
+ </body>
+    </html>
